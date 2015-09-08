@@ -9,6 +9,7 @@
 	<link rel="canonical" href="http://www.raphaelsanchez.fr/" />
 	<link rel="sitemap" type="application/xml" title="Sitemap" href="sitemap.xml" />
 	<link rel="icon" type="image/png" href="assets/icons/favicon.png" />
+	<style><?php readfile('assets/css/style.css'); ?></style>
 	<!-- <link rel="stylesheet" href="assets/css/style.css"> -->
 </head>	
 <body>
@@ -198,7 +199,6 @@
 			</div>
 		</div>
 	<footer><p>&copy; 2015 - Rapha&euml;l Sanchez - Tous droits réservés.</p></footer>
-	<script><?php readfile('assets/css/style.css'); ?></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<script src="assets/scripts/script.js"></script>
 </body>
